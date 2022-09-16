@@ -47,3 +47,5 @@ ssh-keygen -t rsa -b 4096 -C "email@email.com"
 ssh -T git@github.com
 ```
 
+## GPG配置
+[github GPG 配置](https://segmentfault.com/a/1190000016330472)
